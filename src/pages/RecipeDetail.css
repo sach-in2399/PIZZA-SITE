@@ -1,0 +1,35 @@
+.detail-container {
+  padding: 1.5rem;
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.recipe-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.recipe-image {
+  width: 100%;
+  height: 16rem;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.section-heading {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.ingredients-list,
+.instructions-list {
+  padding-left: 1.25rem;
+}
+
+.ingredients-list li,
+.instructions-list li {
+  margin-bottom: 0.5rem;
+}
