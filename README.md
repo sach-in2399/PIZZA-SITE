@@ -1,4 +1,5 @@
-# 🍽️ React Recipes App
+# 🍽️ React Recipes App 
+## REACT + TYPESCRIPT
 
 A clean, responsive recipe browsing web application built using **React**. The app fetches data from the [DummyJSON Recipes API](https://dummyjson.com/recipes?limit=100&skip=0) and allows users to explore recipes with a card-based layout, pagination, and detailed views for each recipe.
 
